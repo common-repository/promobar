@@ -1,0 +1,48 @@
+.prmbr_main {
+	min-height: 0;
+	padding: 15px;
+	word-wrap: break-word;
+}
+.prmbr_main img {
+	max-width: 100%;
+}
+/*position when js is absent */
+.prmbr_no_js {
+	position: fixed !important;
+}
+.hidden {
+	display: none;
+}
+.prmbr_settings_form {
+	margin: 10px 0;
+}
+.prmbr_tbody_border {
+	border-bottom: 1px solid #cdcdcd;
+}
+input.prmbr_css_file_path {
+	max-width: 100%;
+}
+.prmbr_file_delete_button {
+	cursor: pointer;
+}
+#prmbr_close_button_main {
+	max-height: 10px;
+	cursor: pointer;
+	display: inline-block;
+	position: relative;
+}
+@media screen and (max-width: 782px) {
+	.prmbr_no_js_logged {
+		margin-top: 46px ;
+	}
+}
+@media screen and (min-width: 782px) {
+	.prmbr_no_js_logged {
+		margin-top: 32px ;
+	}
+}
+@media screen and (max-width: 600px) {
+	html {
+		margin-top: 0 !important;
+	}
+}

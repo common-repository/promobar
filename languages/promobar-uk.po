@@ -1,0 +1,693 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: promobar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-31 13:00+0300\n"
+"PO-Revision-Date: 2021-08-31 13:01+0300\n"
+"Last-Translator: bestwebsoft.com <plugins@bestwebsoft.com>\n"
+"Language-Team: BestWebSoft <plugin@bestwebsoft.com>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: bws_menu\n"
+
+#: includes/class-prmbr-add-new.php:29 includes/class-prmbr-add-new.php:33
+#: includes/class-prmbr-settings.php:22 promobar.php:53 promobar.php:484
+#: promobar.php:909 promobar.php:945
+msgid "Settings"
+msgstr "Налаштування"
+
+#: includes/class-prmbr-add-new.php:34
+msgid "Display"
+msgstr "Відображення"
+
+#: includes/class-prmbr-add-new.php:53 includes/class-prmbr-add-new.php:343
+msgid "Transparent"
+msgstr "Прозорий"
+
+#: includes/class-prmbr-add-new.php:54 includes/class-prmbr-add-new.php:348
+msgid "Color"
+msgstr "Колір"
+
+#: includes/class-prmbr-add-new.php:55 includes/pro_banners.php:28
+msgid "Image"
+msgstr "Зображення"
+
+#: includes/class-prmbr-add-new.php:145
+msgid "Settings saved."
+msgstr "Налаштування збережено."
+
+#: includes/class-prmbr-add-new.php:163
+msgid "Edit Promobar"
+msgstr "Редагувати Promobar"
+
+#: includes/class-prmbr-add-new.php:163 promobar.php:48
+msgid "Add New"
+msgstr "Додати новий"
+
+#: includes/class-prmbr-add-new.php:165 promobar.php:246
+msgid "Add New Promobar"
+msgstr "Додати новий Promobar"
+
+#: includes/class-prmbr-add-new.php:179
+msgid "Publish"
+msgstr "Публікувати"
+
+#: includes/class-prmbr-add-new.php:185
+msgid "Update"
+msgstr "Обновите"
+
+#: includes/class-prmbr-add-new.php:195 includes/class-prmbr-settings.php:88
+msgid "Promobar Shortcode"
+msgstr "Promobar шорткод"
+
+#: includes/class-prmbr-add-new.php:198
+msgid ""
+"Add PromoBar to your posts, pages, custom post types or widgets by using the "
+"following shortcode:"
+msgstr ""
+"Додайте PromoBar до своїх публікацій, сторінок, користувацьких типів "
+"публікацій або віджетів за допомогою такого шорткоду:"
+
+#: includes/class-prmbr-add-new.php:213 includes/class-prmbr-add-new.php:396
+#: includes/class-prmbr-settings.php:57
+msgid "Promobar Settings"
+msgstr "Promobar Налаштування"
+
+#: includes/class-prmbr-add-new.php:219 includes/class-prmbr-add-new.php:228
+msgid "Display Promobar"
+msgstr "Показати PromoBar"
+
+#: includes/class-prmbr-add-new.php:223
+msgid "Enable to display a promo bar."
+msgstr "Можливість відображати Promobar."
+
+#: includes/class-prmbr-add-new.php:232
+msgid "on all pages"
+msgstr "на всіх сторінках"
+
+#: includes/class-prmbr-add-new.php:236
+msgid "on the homepage"
+msgstr "на головній сторінці"
+
+#: includes/class-prmbr-add-new.php:240
+msgid "display via shortcode or function only"
+msgstr "відображати тільки за допомогою шорткоду чи функції"
+
+#: includes/class-prmbr-add-new.php:249
+msgid "Display on"
+msgstr "Відображати на"
+
+#: includes/class-prmbr-add-new.php:253 includes/class-prmbr-add-new.php:295
+msgid "Desktop"
+msgstr "Комп'ютер"
+
+#: includes/class-prmbr-add-new.php:257 includes/class-prmbr-add-new.php:295
+msgid "Tablet"
+msgstr "Планшет"
+
+#: includes/class-prmbr-add-new.php:261 includes/class-prmbr-add-new.php:295
+msgid "Mobile"
+msgstr "Телефон"
+
+#: includes/class-prmbr-add-new.php:268
+msgid "Close Icon"
+msgstr "Значок закрити"
+
+#: includes/class-prmbr-add-new.php:319
+msgid "Close Icon Color"
+msgstr "Колір Значка закрити"
+
+#: includes/class-prmbr-add-new.php:327
+msgid "Close Icon Size"
+msgstr "Розмір Значка закрити"
+
+#: includes/class-prmbr-add-new.php:327
+msgid "Close Icon Position"
+msgstr "Розположення Значка закрити"
+
+#: includes/class-prmbr-add-new.php:339
+msgid "Left"
+msgstr "Зліва"
+
+#: includes/class-prmbr-add-new.php:327
+msgid "Right"
+msgstr "Зправа"
+
+#: includes/class-prmbr-add-new.php:273
+msgid "Enable to display a close/dismiss icon on the promo bar."
+msgstr "Можливість відображати значок закриття на Promobar."
+
+#: includes/class-prmbr-add-new.php:278
+msgid "Position"
+msgstr "Позиція"
+
+#: includes/class-prmbr-add-new.php:282
+msgid "absolute"
+msgstr "абсолютна"
+
+#: includes/class-prmbr-add-new.php:286
+msgid "fixed"
+msgstr "фіксована"
+
+#: includes/class-prmbr-add-new.php:293
+msgid "Alignment"
+msgstr "Вирівнювання"
+
+#: includes/class-prmbr-add-new.php:301
+msgid "Top"
+msgstr "Зверху"
+
+#: includes/class-prmbr-add-new.php:304
+msgid "Bottom"
+msgstr "Внизу"
+
+#: includes/class-prmbr-add-new.php:307
+msgid "Left"
+msgstr "Зліва"
+
+#: includes/class-prmbr-add-new.php:310 includes/class-prmbr-add-new.php:323
+msgid "width"
+msgstr "ширина"
+
+#: includes/class-prmbr-add-new.php:314 includes/class-prmbr-add-new.php:327
+msgid "px"
+msgstr "px"
+
+#: includes/class-prmbr-add-new.php:320
+msgid "Right"
+msgstr "Справа"
+
+#: includes/class-prmbr-add-new.php:338
+msgid "Background"
+msgstr "Фон"
+
+#: includes/class-prmbr-add-new.php:357
+msgid "Text Color"
+msgstr "Колір Тексту"
+
+#: includes/class-prmbr-add-new.php:365
+msgid "HTML"
+msgstr "HTML"
+
+#: includes/class-prmbr-add-new.php:384 includes/class-prmbr-settings.php:68
+#: promobar.php:297 promobar.php:407
+msgid "Close"
+msgstr "Закрити"
+
+#: includes/class-prmbr-add-new.php:405
+msgid ""
+"Choose the necessary post types (or single pages) where you would like to "
+"display PromoBar"
+msgstr ""
+"Оберіть типи записів (чи окремі сторінки), на яких буде відображатись блок "
+"PromoBar"
+
+#: includes/class-prmbr-add-new.php:412
+msgid "Show URL for pages"
+msgstr "Показати URL для сторінок"
+
+#: includes/class-prmbr-add-new.php:418
+msgid "Example of the site's pages tree"
+msgstr "Приклад дерева сторінок сайту"
+
+#: includes/class-prmbr-settings.php:23
+msgid "Misc"
+msgstr "Різне"
+
+#: includes/class-prmbr-settings.php:24
+msgid "Custom Code"
+msgstr "Призначений для користувача код"
+
+#: includes/class-prmbr-settings.php:25
+msgid "License key"
+msgstr "Ліцензійний ключ"
+
+#: includes/class-prmbr-settings.php:91
+msgid "Add PromoBar to your page or post </br> using the following shortcode:"
+msgstr ""
+"Додати PromoBar на вашу сторінку або пост використовуючи наступний шорткод:"
+
+#: includes/class-prmbr-settings.php:98
+msgid ""
+"If you would like to use this plugin on certain pages, please paste the "
+"following strings into the template source code:"
+msgstr ""
+"Якщо ви хочете використовувати цей плагін на певних сторінках, вставте такі "
+"рядки в вихідний код шаблону:"
+
+#: includes/pro_banners.php:13
+msgid "Countdown Ends on"
+msgstr "Кінець періоду знижок"
+
+#: includes/pro_banners.php:16
+msgid "Enter end date for countdown shortcode."
+msgstr "Введіть дату закінчення періоду знижок шорткодів."
+
+#: includes/pro_banners.php:33
+msgid "Add Image"
+msgstr "Завантажити зображення"
+
+#: includes/pro_banners.php:44
+msgid "Enter title here"
+msgstr "Введіть тут назву"
+
+#: includes/pro_banners.php:56
+msgid "Promobar Starts on"
+msgstr "Promobar починається"
+
+#: includes/pro_banners.php:59
+msgid "Enter to display a promo bar after this date"
+msgstr "Можливість відображати Promobar після цієї дати"
+
+#: includes/pro_banners.php:63
+msgid "Promobar Ends on"
+msgstr "Promobar закінчується"
+
+#: includes/pro_banners.php:66
+msgid "Enter to hide a promo bar after this date"
+msgstr "Введіть, щоб приховати PromoBar після цієї дати"
+
+#: includes/pro_banners.php:77
+msgid "popup"
+msgstr "спливаюче сповіщення"
+
+#: includes/pro_banners.php:84
+msgid "Add Countdown to your page or post </br> using the following shortcode:"
+msgstr ""
+"Додати Countdown на вашу сторінку або пост </ br> використовуючи наступний "
+"шорткод:"
+
+#: promobar.php:48
+msgid "Edit PromoBar"
+msgstr "Редагувати PromoBar"
+
+#: promobar.php:68
+msgid "Upgrade to Pro"
+msgstr "Оновити до Pro"
+
+#: promobar.php:247
+msgid "This tab contains Pro options only."
+msgstr "Ця вкладка містить лише параметри Pro."
+
+#: promobar.php:249
+#, php-format
+msgid "%sChange the settings%s to view the Pro options."
+msgstr "%sЗмініть налаштування%s, щоб переглянути параметри Pro."
+
+#: promobar.php:283
+msgid "Promobar deleted."
+msgstr "Promobar видалений."
+
+#: promobar.php:300
+msgid "Search Promobar"
+msgstr "Пошук Promobar"
+
+#: promobar.php:362
+msgid "Edit"
+msgstr "Редагувати"
+
+#: promobar.php:393
+msgid "Title"
+msgstr "Назва"
+
+#: promobar.php:394
+msgid "Shortcode"
+msgstr "Шорткод"
+
+#: promobar.php:395
+msgid "Date"
+msgstr "Дата"
+
+#: promobar.php:436
+msgid "Delete"
+msgstr "Вилучити"
+
+#: promobar.php:487
+msgid "Please, enable JavaScript in your browser."
+msgstr "Увімкніть JavaScript у вашому браузері."
+
+#: promobar.php:804
+msgid "Add promobar to your page or post"
+msgstr "Додати promobar на вашу сторінку або пост"
+
+#: promobar.php:847
+msgid "Insert the shortcode to add PromoBar block."
+msgstr "Вставте шорткод, щоб додати блок PromoBar."
+
+#: promobar.php:911
+msgid "FAQ"
+msgstr "FAQ"
+
+#: promobar.php:912
+msgid "Support"
+msgstr "Техпідтримка"
+
+#~ msgid "Countdown"
+#~ msgstr "Countdown"
+
+#~ msgid "Promobar"
+#~ msgstr "Promobar"
+
+#, fuzzy
+#~| msgid "Promobar"
+#~ msgid "promobar"
+#~ msgstr "Promobar"
+
+#, fuzzy
+#~| msgid "Promobar"
+#~ msgid "promobars"
+#~ msgstr "Promobar"
+
+#~ msgid "Preliminary Period Starts on"
+#~ msgstr "Початок попереднього періоду"
+
+#~ msgid "Discount Starts on"
+#~ msgstr "Початок періоду знижок"
+
+#~ msgid "Show Countdown Timer"
+#~ msgstr "Відображати таймер"
+
+#~ msgid "Enable to display a countdown timer (min display width is 450px)."
+#~ msgstr ""
+#~ "Можливість показувати таймер зворотного відліку (при мінімальній ширині "
+#~ "дисплея 450 пікселів)."
+
+#~ msgid "Transparant"
+#~ msgstr "Прозорий"
+
+#~ msgid "Parent Selector Class/ID"
+#~ msgstr "Батьківський клас / ідентифікатор"
+
+#~ msgid ""
+#~ "Enter the class/id of the parent selector where you want to insert the "
+#~ "countdown."
+#~ msgstr ""
+#~ "Введіть клас / ідентифікатор батьківського селектора, куди потрібно "
+#~ "вставити відлік."
+
+#~ msgid "Preliminary Period"
+#~ msgstr "Попередній період"
+
+#~ msgid "Discount Period"
+#~ msgstr "Період знижок"
+
+#~ msgid "Create your own homepage banner for preliminary period."
+#~ msgstr ""
+#~ "Створіть власний банер на головну сторінку для попереднього періоду."
+
+#~ msgid "Create your own banner for preliminary period."
+#~ msgstr "Створіть власний банер для попереднього періоду."
+
+#~ msgid "Create your own homepage banner for discount period."
+#~ msgstr "Створіть власний банер на головну сторінку для періоду знижок."
+
+#~ msgid "Create your own banner for discount period."
+#~ msgstr "Створіть власний банер сторінку для періоду знижок."
+
+#~ msgid "PromoBar Settings"
+#~ msgstr "Налаштування PromoBar"
+
+#~ msgid "Please select the correct value in the Background field."
+#~ msgstr "Будь ласка, введіть правильне значення в полі Фон."
+
+#~ msgid "Please select the correct value in the Text Color field."
+#~ msgstr "Будь ласка, введіть правильне значення в полі Колір Тексту."
+
+#~ msgid "This options is available in Pro version of the plugin"
+#~ msgstr "Ця опція доступна в Pro версії плагіна"
+
+#~ msgid "Custom CSS Settings"
+#~ msgstr "Призначений для користувача CSS код"
+
+#~ msgid "Show Dismiss Button"
+#~ msgstr "Показати кнопку закриття"
+
+#~ msgid "When users close Promobar it is written to the cookies."
+#~ msgstr "Коли користувачі закривають Promobar - це записується в куки."
+
+#~ msgid "None"
+#~ msgstr "Не вiдображати"
+
+#~ msgid "Custom CSS"
+#~ msgstr "Призначений для користувача CSS код"
+
+#~ msgid "CSS File Path"
+#~ msgstr "Шлях до файлу стилів"
+
+#~ msgid "Date From"
+#~ msgstr "Дата початку"
+
+#~ msgid "Repeat Every Year"
+#~ msgstr "Повторювати щороку"
+
+#~ msgid "Add New Styles File"
+#~ msgstr "Додати новий файл стилів"
+
+#~ msgid "When users close Countdown it is written to the cookies."
+#~ msgstr "Коли користувачі закривають Countdown - це записується в куки."
+
+#~ msgid "Block Class/ID attribute to Paste Big Banner"
+#~ msgstr "Блок Class / ID атрибут для вставки великого банера"
+
+#~ msgid "Paste parent selector for big countdown banner."
+#~ msgstr ""
+#~ "Вставте батьківський селектор для великого банера зворотного відліку."
+
+#~ msgid "Enable to repeat the discount countdown every year."
+#~ msgstr "Увімкніть, щоб повторювати таймер щороку."
+
+#~ msgid "Start Date"
+#~ msgstr "Дата початку"
+
+#~ msgid "End Date"
+#~ msgstr "Дата кінця"
+
+#~ msgid "Enable to repeat the stylesheets every year."
+#~ msgstr "Увімкніть для підключення файлу стилів щорічно."
+
+#~ msgid "Display PromoBar"
+#~ msgstr "Відображати PromoBar"
+
+#~ msgid "All plugin settings were restored."
+#~ msgstr "Всі налаштування плагіну було скинуто до стандартних."
+
+#~ msgid "Extra Settings"
+#~ msgstr "Додаткові налаштування"
+
+#~ msgid "Custom code"
+#~ msgstr "Користувацький код"
+
+#~ msgid "Go PRO"
+#~ msgstr "Оновити до Pro-версії"
+
+#~ msgid ""
+#~ "If you would like to use this plugin on certain pages, please paste the "
+#~ "following strings into the template source code"
+#~ msgstr ""
+#~ "Якщо ви хочете використовувати цей плагін на окремих сторінках, будь "
+#~ "ласка, вставте наступні строки у вихідний код шаблону"
+
+#~ msgid ""
+#~ "If you would like to add PromoBar to your page or post, please use %s "
+#~ "button"
+#~ msgstr ""
+#~ "Якщо ви хочете додати PromoBar на вашу сторінку або запис, то "
+#~ "використовуйте кнопку %s"
+
+#~ msgid ""
+#~ "You can add PromoBar to your page or post by clicking on %s button in the "
+#~ "content edit block using the Visual mode. If the button isn't displayed, "
+#~ "please use the shortcode %s."
+#~ msgstr ""
+#~ "Ви можете додати PromoBar на вашу сторінку або запис, натиснувши на "
+#~ "кнопку %s в блоці редагування контенту в режимі Visual. Якщо кнопка не "
+#~ "відображається, будь ласка, використовуйте шорткод %s."
+
+#~ msgid "Save Changes"
+#~ msgstr "Зберегти зміни"
+
+#~ msgid "If you upgrade to Pro version all your settings will be saved."
+#~ msgstr ""
+#~ "При переході на Pro-версію плагіну всі поточні налаштування буде "
+#~ "збережено."
+
+#~ msgid "Learn More"
+#~ msgstr "Дізнатись більше"
+
+#~ msgid "Please enter the correct value in the Width field."
+#~ msgstr "Будь ласка, введіть правильне значення в полі Ширина."
+
+#~ msgid ""
+#~ "Please choose the necessary post types (or single pages) PromoBar will be "
+#~ "displayed with"
+#~ msgstr ""
+#~ "Будь ласка, оберіть типи записів (чи окремі сторінки), на яких буде "
+#~ "відображатись блок PromoBar"
+
+#~ msgid "Unlock premium options by upgrading to Pro version"
+#~ msgstr "Відкрийте преміум можливості, перейшовши на Pro версію"
+
+#~ msgid ""
+#~ "And if you want to add the block to the website page or post, please "
+#~ "paste the following shortcode"
+#~ msgstr ""
+#~ "Також якщо ви хочете додати блок на сторінку чи пост вашого сайту, будь "
+#~ "ласка, вставте цей шорткод"
+
+#~ msgid "Notice"
+#~ msgstr "Увага"
+
+#~ msgid ""
+#~ "The plugin's settings have been changed. In order to save them please "
+#~ "don't forget to click the 'Save Changes' button."
+#~ msgstr ""
+#~ "Налаштування плагіну змінено. Щоб зберегти їх, будь ласка, не забудьте "
+#~ "клікнути 'Зберегти зміни'."
+
+#~ msgid "Go"
+#~ msgstr "Вперед"
+
+#~ msgid "If you enjoy our plugin, please give it 5 stars on WordPress"
+#~ msgstr ""
+#~ "Якщо вам сподобався плагін, будь ласка, поставте нам 5 зірочок на "
+#~ "WordPress :-)"
+
+#~ msgid "Rate the plugin"
+#~ msgstr "Оцінити плагін"
+
+#~ msgid "If there is something wrong about it, please contact us"
+#~ msgstr "Якщо виникли проблеми, будь ласка, повідомте нам "
+
+#~ msgid "requires"
+#~ msgstr "требует"
+
+#~ msgid ""
+#~ "or higher, that is why it has been deactivated! Please upgrade WordPress "
+#~ "and try again."
+#~ msgstr ""
+#~ "или выше, поэтому плагин был деактивирован! Обновите WordPress и "
+#~ "повторите попытку."
+
+#~ msgid "Back to the WordPress"
+#~ msgstr "Назад к WordPress"
+
+#~ msgid "Plugins page"
+#~ msgstr "странице плагинов"
+
+#~ msgid ""
+#~ "It is prohibited to change PromoBar settings on this site in the PromoBar "
+#~ "network settings."
+#~ msgstr ""
+#~ "Запрещается изменять настройки PromoBar на этом сайте в сетевых "
+#~ "настройках PromoBar."
+
+#~ msgid ""
+#~ "It is prohibited to view PromoBar settings on this site in the PromoBar "
+#~ "network settings."
+#~ msgstr ""
+#~ "Запрещается просматривать настройки  PromoBar на этом сайте в сетевых "
+#~ "настройках  PromoBar."
+
+#~ msgid ""
+#~ "You can customize the display by going on the plugin settings page each "
+#~ "subdomain. These settings are not available for the Network."
+#~ msgstr ""
+#~ "Вы можете настроить отображение, перейдя в раздел настроек плагина на "
+#~ "каждом подсайте. Эти параметры не доступны для Сети."
+
+#~ msgid "Network"
+#~ msgstr "Сетевые"
+
+#~ msgid "This setting will replace all current settings in individual sites."
+#~ msgstr "Эта настройка заменит все текущие настройки отдельных сайтов."
+
+#~ msgid "Apply network settings"
+#~ msgstr "Применить сетевые настройки"
+
+#~ msgid "Apply for all sites and use as default"
+#~ msgstr "Применить для всех сайтов и использовать по умолчанию"
+
+#~ msgid "All current settings in individual sites will be replaced"
+#~ msgstr "Все текущие настройки на отдельных сайтах будут заменены"
+
+#~ msgid "Allow to change settings on individual sites"
+#~ msgstr "Разрешить изменять настройки на отдельных сайтах"
+
+#~ msgid "Allow to view settings on individual sites"
+#~ msgstr "Разрешить просмотр настроек на отдельных сайтах"
+
+#~ msgid "As default (Settings will be used as default for newly added sites)"
+#~ msgstr ""
+#~ "По умолчанию (настройки будут использоваться по умолчанию для вновь "
+#~ "добавленных сайтов)"
+
+#~ msgid ""
+#~ "Not apply (Change settings only on individual sites of the multisite)"
+#~ msgstr "Не применять (изменять настройки только на отдельных сайтах)"
+
+#~ msgid "on selected pages"
+#~ msgstr "на выбранных страницах"
+
+#~ msgid "click \"Save Changes\" and follow the link"
+#~ msgstr "нажмите \"Сохранить изменения \" и перейдите по ссылке"
+
+#~ msgid "These settings are not available for the Network."
+#~ msgstr "Эти параметры не доступны для Сети."
+
+#~ msgid "Please, enable JavaScript in Your browser."
+#~ msgstr "Пожалуйста, включите поддержку JavaScript в вашем браузере."
+
+#~ msgid " Mb"
+#~ msgstr "Mb"
+
+#~ msgid "Yes"
+#~ msgstr "Да"
+
+#~ msgid "No"
+#~ msgstr "Нет"
+
+#~ msgid "Sorry, email message could not be delivered."
+#~ msgstr "К сожалению, сообщение электронной почты не может быть доставлено."
+
+#~ msgid "Installed plugins"
+#~ msgstr "Установленные плагины"
+
+#~ msgid "DONATE"
+#~ msgstr "Поддержать"
+
+#~ msgid "Activate this plugin"
+#~ msgstr "Активировать этот плагин"
+
+#~ msgid "Activate"
+#~ msgstr "Активировать "
+
+#~ msgid "Recommended plugins"
+#~ msgstr "Рекомендуемые плагины"
+
+#~ msgid "Install now"
+#~ msgstr "Установить сейчас"
+
+#~ msgid "Already Installed"
+#~ msgstr "Уже Установлен"
+
+#~ msgid "Environment"
+#~ msgstr "Среда"
+
+#~ msgid "Active Plugins"
+#~ msgstr "Активные плагины"
+
+#~ msgid "Inactive Plugins"
+#~ msgstr "Неактивные плагины"
+
+#~ msgid "Send to support"
+#~ msgstr "Отправить в поддержку"
+
+#~ msgid "Send to custom email &#187;"
+#~ msgstr "Отправить заказ по электронной почте &#187;"
